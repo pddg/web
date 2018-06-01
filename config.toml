@@ -1,0 +1,38 @@
+baseurl = "http://example.org"
+title = "poyo.info"
+theme = "dimension"
+languageCode = "ja-jp"
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+disableKinds=["RSS"]
+
+[params]
+  logoimage = '/images/avator-i.png'
+  copyright = "pudding_info"
+
+[[params.social]]
+  medium = "twitter"
+  icon = "twitter"
+  link = "https://twitter.com/pudding_info"
+
+[[params.social]]
+  medium = "blog"
+  icon = "globe"
+  link = "https://poyo.hatenablog.jp/"
+
+[[params.social]]
+  medium = "github"
+  icon = "github"
+  link = "https://github.com/pddg/"
+
+[languages]
+[languages.en]
+languageName = "English"
+weight = 1
+description = 'Passive income is god. If I work, I lose.'
+
+[languages.ja]
+#logoimage = '/images/avator-i.png'
+languageName = "Japanese"
+weight = 2
+description = "不労所得は神．働いたら負けかなと思っている．"
