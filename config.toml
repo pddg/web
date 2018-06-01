@@ -1,4 +1,4 @@
-baseurl = "https://pddg.github.io/web/"
+baseurl = "https://www.poyo.info/"
 relativeURLs = false
 canonifyURLs = true
 title = "poyo.info"
