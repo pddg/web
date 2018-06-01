@@ -1,4 +1,4 @@
-baseurl = "http://example.org"
+baseurl = "https://pddg.github.io/web/"
 title = "poyo.info"
 theme = "dimension"
 languageCode = "ja-jp"
