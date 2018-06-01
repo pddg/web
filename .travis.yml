@@ -18,6 +18,7 @@ script:
 deploy:
   provider: pages
   local-dir: public
+  fqdn: www.poyo.info
   skip-cleanup: true
   github-token: $GITHUB_TOKEN
   keep-history: true
