@@ -1,4 +1,6 @@
 baseurl = "https://pddg.github.io/web/"
+relativeURLs = false
+canonifyURLs = true
 title = "poyo.info"
 theme = "dimension"
 languageCode = "ja-jp"
