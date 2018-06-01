@@ -3,34 +3,34 @@
 
   
   <url>
-    <loc>http://example.org/#about</loc>
+    <loc>https://pddg.github.io/web//#about</loc>
     <lastmod>2018-06-01T13:50:00+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/#skills</loc>
+    <loc>https://pddg.github.io/web//#skills</loc>
   </url>
   
   <url>
-    <loc>http://example.org/#blob</loc>
+    <loc>https://pddg.github.io/web//#blob</loc>
   </url>
   
   <url>
-    <loc>http://example.org/#contact</loc>
+    <loc>https://pddg.github.io/web//#contact</loc>
   </url>
   
   <url>
-    <loc>http://example.org/#</loc>
+    <loc>https://pddg.github.io/web//#</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/#</loc>
+    <loc>https://pddg.github.io/web//#</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/#</loc>
+    <loc>https://pddg.github.io/web//#</loc>
     <lastmod>2018-06-01T13:50:00+09:00</lastmod>
     <priority>0</priority>
   </url>
