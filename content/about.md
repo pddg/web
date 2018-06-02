@@ -7,7 +7,7 @@ weight = 5
 
 {{< figure class="image main" src="/images/pudding_info.png" >}}
 
-I studied Biology before. But it is very had way to live. If you want to live, you sholud create something.
+I studied Biology before. But it is very hard way to live. If you want to live, you sholud create something.
 
 Life is hard.
 
