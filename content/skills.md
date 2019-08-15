@@ -8,8 +8,9 @@ Web application, CLI tool, competitive programming, infrastructure ...etc
 | skill | level |
 | ----- | ----- |
 | Python |★★★★★ |
-| Go    |★★★☆☆ |
+| Ansible |★★★★☆ |
+| Go    |★★★★☆ |
 | Git   |★★★★☆ |
-| C/C++ |★★☆☆☆ |
 | Docker |★★★★☆ |
+| C/C++ |★★☆☆☆ |
 
